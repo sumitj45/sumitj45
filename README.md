@@ -1,11 +1,11 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
+
+
+
+[!asterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)
 <h1 align="center">Hi 👋, I'm Sumit Jaiswal</h1>
 <h3 align="center">A passionate Web Developer developer from India</h3>
-<img align="right" alt="coading" width="400" height="400" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitj45&label=Profile%20views&color=0e75b6&style=flat" alt="sumitj45" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumitj45" alt="sumitj45" /></a> </p>
+<img align="right" alt="coading" width="300"  src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
 <p align="left"> <a href="https://twitter.com/@sumitj45" target="blank"><img src="https://img.shields.io/twitter/follow/@sumitj45?logo=twitter&style=for-the-badge" alt="@sumitj45" /></a> </p>
 
@@ -35,3 +35,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumitj45&show_icons=true&locale=en" alt="sumitj45" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitj45&" alt="sumitj45" /></p>
+
