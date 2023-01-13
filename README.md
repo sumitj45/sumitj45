@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/@sumitj45" target="blank"><img src="https://img.shields.io/twitter/follow/@sumitj45?logo=twitter&style=for-the-badge" alt="@sumitj45" /></a> </p>
 
-- 🔭 I’m currently working on **First-Project**
+- 🔭 I’m currently working on **New-project**
 
-- 🌱 I’m currently learning **Java Script and ruby**
+- 🌱 I’m currently learning **React js and Node Js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sumitj45](https://github.com/sumitj45)
 
-- 💬 Ask me about **html,css and c++**
+- 💬 Ask me about **html,css,javascript,react,node js and c++**
 
 - 📫 How to reach me **sumitj00112233@gmail.com**
 
