@@ -4,7 +4,7 @@
 
 <img align="center" width=100%  height=30% src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif">
 <h1 align="center">Hi 👋, I'm Sumit Jaiswal</h1>
-<h3 align="center">A passionate Web Developer developer from India</h3>
+<h3 align="center">A passionate Web Developer  from India</h3>
 <img align="right" alt="coading" width="300"  src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
 <p align="left"> <a href="https://twitter.com/@sumitj45" target="blank"><img src="https://img.shields.io/twitter/follow/@sumitj45?logo=twitter&style=for-the-badge" alt="@sumitj45" /></a> </p>
